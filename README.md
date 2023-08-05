@@ -1,6 +1,6 @@
 # Intercept the Plastic - Python Puzzle Game
 
-![Intercept the Plastic](game_screenshot.png)
+![Intercept the Plastic](image.png)
 
 ## Introduction
 
